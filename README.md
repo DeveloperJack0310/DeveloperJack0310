@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Seja+Bem+Vindo(a)!;Olá,+meu+nome+é+Jackson+Veloso!;Estudo+Ciência+da+Computação.)](https://git.io/typing-svg)
+<img alt="imagem do header" src="https://camo.githubusercontent.com/021fc4296758a3c16d49ddc26e9998b64fd64b7364efb89f97e599e444682a2e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d383261616666266865696768743d3132302673656374696f6e3d686561646572"/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Seja+Bem+Vindo(a)!;Olá,+meu+nome+é+Jackson+Veloso!;Estudo+Ciência+da+Computação."/>
+</div>
 
 <div style="display: inline_block"><br/>
    <img alt="" src="https://camo.githubusercontent.com/f6c78b089b54eebb6687ca57a3dc8399271081a629e4c633c15e0beb052a98d8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d736f667426636f6c6f723d383261616666266865696768743d38302673656374696f6e3d68656164657226746578743d5265646573253230736f636961697325323065253230436f6e7461746f7326666f6e7453697a653d3430">
@@ -19,7 +23,7 @@
    <img alt="" src="https://camo.githubusercontent.com/9029992987d83e4443b4992679caa3621717af5a972b99b27f93679dedc1cc02/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d736f667426636f6c6f723d383261616666266865696768743d38302673656374696f6e3d68656164657226746578743d5465636e6f6c6f6769617326666f6e7453697a653d3430">
 </div>
 
-<div style="display: inline_block"><br/>
+<div align="center" style="display: inline_block"><br/>
    <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
    <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
    <img alt="javaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -38,3 +42,5 @@
 🌐 Dê uma olhada nos meus repositórios e acompanhe minha jornada de aprendizado! Estou sempre aberto a feedback, colaborações e novas oportunidades.
 
 Vamos juntos construir o futuro da tecnologia! 🌈✨
+
+<img alt="footer" src="https://camo.githubusercontent.com/7b4f64b04272bfc170f92a32687d92862da34f801df4172cf320f326524b0c1e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d383261616666266865696768743d3132302673656374696f6e3d666f6f746572"/>
